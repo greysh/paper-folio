@@ -1,11 +1,9 @@
-# paper-folio
-How to run demo of this project?
+# System Analysis of the Next-generation Library Service Platform Based on Microservice Architecture——Taking FOLIO as an Example
 
-# Startup the OKAPI Gateway
-<code>
-java -Dloglevel=DEBUG -Dport=8600 -Dhost=192.168.5.14 -jar okapi-core/target/okapi-core-fat.jar dev
-</code>
+Author: Genix
 
-# Register the module
+Email: genix@greysh.ac.cn
 
-# Register the descriptor
+ORCID: <https://orcid.org/0000-0001-6337-3451>
+
+Website: <https://www.greysh.ac.cn/>
